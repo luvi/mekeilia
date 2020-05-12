@@ -1,0 +1,26 @@
+{
+    "name": "mekeilia",
+    "displayName": "mekeilia",
+    "description": "the perfect color theme",
+    "version": "0.0.1",
+    "publisher": "janique-ka",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/luvi/mekeilia.git"
+      },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "mekeilia",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mekeilia-color-theme.json"
+            }
+        ]
+    }
+}
