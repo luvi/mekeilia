@@ -1,8 +1,9 @@
 {
     "name": "mekeilia",
     "displayName": "mekeilia",
-    "description": "the perfect color theme",
-    "version": "0.0.1",
+    "description": "the perfect dark theme",
+    "version": "0.0.2",
+    "icon": "themes/images/me192x192.png",
     "publisher": "janique-ka",
     "engines": {
         "vscode": "^1.45.0"
