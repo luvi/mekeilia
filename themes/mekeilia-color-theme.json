@@ -127,6 +127,12 @@
 			}
 		},
 		{
+			"scope": "string.quoted",
+			"settings": {
+				"fontStyle": ""
+			}
+		},
+		{
 			"scope": "var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
 			"settings": {
 				"fontStyle": "italic"
